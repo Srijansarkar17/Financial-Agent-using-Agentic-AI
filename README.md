@@ -87,7 +87,7 @@ The application will provide a combined response with financial data and web sea
 ## Contributing
 - Contributions are welcome! If you'd like to contribute, please follow these steps:
 
-- Fork the repository.
+- Fork the repository. 
 
 - Create a new branch for your feature or bugfix.
 
